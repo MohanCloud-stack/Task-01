@@ -1,0 +1,9 @@
+tables,list, div, section, article, html forms
+selectors in css : class, id, tag, universal
+colspan: specifies the no of columns in data cell
+ul, ol
+ul-> bullets
+ol-> numbers 
+div, section,article
+
+Forms:
